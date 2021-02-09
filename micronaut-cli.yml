@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, config-kubernetes, h2, hibernate-validator, http-client, java, java-application, jib, junit, kubernetes, log4j2, management, maven, netty-server, openapi, readme, security-annotations, security-jwt, security-oauth2, shade, yaml]
